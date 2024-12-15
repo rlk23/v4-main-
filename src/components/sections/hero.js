@@ -60,32 +60,27 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Rami-Lionel Kuttab.</h2>;
+  const three = <h3 className="big-heading">I bring ideas to life with code.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a software engineer with experience in designing and building scalable, high-performing
+        applications and tools. Over the years, I’ve honed my skills in full-stack development, AI,
+        and robotics, creating impactful solutions that blend innovation with practicality.
+        Currently, I’m working at{' '}
+        <a href="https://www.flowai.tech/" target="_blank" rel="noreferrer">
+          Flow
         </a>
-        .
+        , where I contribute to building innovative and human-centered solutions. I’m also
+        passionate about exploring the boundaries of AI and robotics, developing projects that solve
+        real-world problems and enhance digital experiences. If you're curious to know more about my
+        work or want to collaborate, feel free to connect!
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
