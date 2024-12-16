@@ -3,7 +3,7 @@ date: '3'
 title: 'Build a Spotify Connected App'
 cover: './Chatbot.png'
 github: https://github.com/rlk23/AI-Travel-Agents'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: ''
 tech:
   - React
   - Python
