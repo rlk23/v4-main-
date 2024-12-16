@@ -6,10 +6,7 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/rlk23',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
+
     {
       name: 'Twitter',
       url: 'https://x.com/rami_kuttab',
@@ -17,10 +14,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/rami-kuttab/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
   ],
 

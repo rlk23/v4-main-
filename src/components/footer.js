@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/rlk23/v4-main-">
-          <div>Designed &amp; Built by Rami-Lionel Kuttab</div>
+          <div>Designed By Brittany Chiang &amp; Built by Rami-Lionel Kuttab</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

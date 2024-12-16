@@ -155,13 +155,14 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.bgcg.com/bgc/">a huge corporation</a>, and{' '}
-              <a href="https://www.flowai.tech/">a start-up</a>. My My main focus these days is
-              exploring the exciting fields of AI and robotics, creating innovative projects, and
-              pushing the boundaries of what's possible with technology. I’m passionate about
-              experimenting with intelligent systems and building solutions that blend creativity
-              with cutting-edge advancements.
+              Fast-forward to today, and I’ve had the privilege of working at a huge corporation and
+              a start-up. My main focus these days is exploring the exciting fields of AI, robotics,
+              and crypto, creating innovative projects, and pushing the boundaries of what's
+              possible with technology. I’m passionate about experimenting with intelligent systems,
+              decentralized technologies, and building solutions that blend creativity with
+              cutting-edge advancements. The potential of blockchain and cryptocurrencies to
+              revolutionize industries fascinates me, and I enjoy exploring their applications
+              alongside my other interests.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
