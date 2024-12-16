@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Rami-Lionel Kuttab',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Rami-Lionel Kuttab is a software engineer passionate about creating innovative solutions, exploring AI and robotics, and pushing the boundaries of technology to solve real-world challenges.',
+    siteUrl: 'https://RamiLionelKuttab.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
