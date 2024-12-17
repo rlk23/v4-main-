@@ -7,7 +7,7 @@ module.exports = {
       'Rami-Lionel Kuttab is a software engineer passionate about creating innovative solutions, exploring AI and robotics, and pushing the boundaries of technology to solve real-world challenges.',
     siteUrl: 'https://RamiLionelKuttab.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@rami_kuttab',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Rami-Lionel Kuttab',
+        short_name: 'Rami-Lionel Kuttab',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo.svg',
       },
     },
     `gatsby-plugin-offline`,
