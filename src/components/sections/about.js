@@ -155,14 +155,16 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at a huge corporation and
-              a start-up. My main focus these days is exploring the exciting fields of AI, robotics,
-              and crypto, creating innovative projects, and pushing the boundaries of what's
-              possible with technology. I’m passionate about experimenting with intelligent systems,
-              decentralized technologies, and building solutions that blend creativity with
-              cutting-edge advancements. The potential of blockchain and cryptocurrencies to
-              revolutionize industries fascinates me, and I enjoy exploring their applications
-              alongside my other interests.
+              Fast-forward to today, and I’ve had the privilege of working at both a large
+              corporation and a start-up. My main focus these days is building scalable and
+              distributed systems that solve real-world challenges. I’m passionate about designing
+              architectures that handle large-scale data, ensuring high availability, and creating
+              solutions that can support millions of users efficiently. Alongside this, I’ve been
+              exploring the exciting world of AI, particularly working with large language models
+              (LLMs) to create intelligent applications and tools. Experimenting with LLMs has
+              allowed me to build systems that leverage AI to enhance user experiences and solve
+              complex problems. Combining distributed systems and AI, I strive to push the
+              boundaries of what’s possible with modern software engineering.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
