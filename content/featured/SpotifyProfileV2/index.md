@@ -2,7 +2,7 @@
 date: '3'
 title: 'AI Travel Agent Chatbot'
 cover: './Chatbot.png'
-github: https://github.com/rlk23/AI-Travel-Agents'
+github: https://github.com/rlk23/AI-Travel-Agents
 cta: ''
 tech:
   - React

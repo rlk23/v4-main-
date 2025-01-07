@@ -2,7 +2,7 @@
 date: '1'
 title: 'RealtorBooks'
 cover: './CRM.png'
-github: 'https://github.com/rlk23'
+github: https:/github.com/rlk23/RealtorBooks
 external: ''
 tech:
   - React
