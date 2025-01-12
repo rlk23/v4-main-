@@ -7,8 +7,8 @@ tech:
   - HTML
   - CSS
   - JavaScript
-company: 'Upstatement'
-showInProjects: false
+company: 'Syracuse University'
+showInProjects: True
 ---
 
 Designed and developed a dynamic college event website using HTML, CSS, and JavaScript to provide an interactive platform for event scheduling, registration, and updates.
