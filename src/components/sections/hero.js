@@ -68,14 +68,16 @@ const Hero = () => {
         I’m a software engineer with experience in designing and building scalable, high-performing
         applications and tools. Over the years, I’ve honed my skills in full-stack development,
         distributed systems, and AI, creating impactful solutions that blend innovation with
-        practicality. Currently, I’m working at{' '}
+        practicality. I’m currently an incoming <strong>Software Engineer at Amazon</strong>, where
+        I’ll be contributing to systems at scale and working on high-impact products. Recently, I’ve
+        been part of the team at{' '}
         <a href="https://www.flowai.tech/" target="_blank" rel="noreferrer">
           Flow
         </a>
-        , where I contribute to crafting human-centered, scalable systems that solve real-world
-        challenges. I’m also passionate about experimenting with AI, particularly large language
-        models (LLMs), to create intelligent applications that enhance user experiences. If you're
-        curious to learn more about my work or want to collaborate, feel free to connect!
+        , crafting human-centered, scalable systems that solve real-world challenges. I’m also
+        passionate about experimenting with AI, particularly large language models (LLMs), to create
+        intelligent applications that enhance user experiences. If you're curious to learn more
+        about my work or want to collaborate, feel free to connect!
       </p>
     </>
   );

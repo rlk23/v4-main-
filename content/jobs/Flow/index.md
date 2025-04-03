@@ -3,8 +3,8 @@ date: '2024-06-06'
 title: 'Full Stack Engineer'
 company: 'Flow'
 location: 'Austin, TX'
-range: June 2024 - Present
-url: 'https://www.upstatement.com/'
+range: June 2024 - April 2025
+url: 'https://www.flowai.tech/'
 ---
 
 - Deliver high-quality, robust production code for a React-based front-end interface, improving navigation and page load speed, which led to a 15% increase in user engagement

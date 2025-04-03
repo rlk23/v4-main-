@@ -144,14 +144,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Rami-Lionel Kuttab, and I am a software engineer with a deep passion
-              for building innovative computer applications. I thrive on solving complex challenges
-              and turning ideas into functional, impactful solutions. My love for technology comes
-              from the endless possibilities it offers to create, optimize, and improve the way we
-              interact with the world. As a software engineer, I enjoy working on projects that push
-              the boundaries of creativity and technical problem-solving. Whether it's developing
-              robust backend systems, crafting user-friendly interfaces, or exploring emerging
-              technologies, I find joy in every step of the process.
+              Hello! My name is Rami-Lionel Kuttab, and I am an upcoming Software Engineer at Amazon
+              with a deep passion for building innovative computer applications. I thrive on solving
+              complex challenges and turning ideas into functional, impactful solutions. My love for
+              technology comes from the endless possibilities it offers to create, optimize, and
+              improve the way we interact with the world. As a software engineer, I enjoy working on
+              projects that push the boundaries of creativity and technical problem-solving. Whether
+              it's developing robust backend systems, crafting user-friendly interfaces, or
+              exploring emerging technologies, I find joy in every step of the process.
             </p>
 
             <p>
