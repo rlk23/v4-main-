@@ -7,10 +7,7 @@ range: 'May 2025 - Present'
 url: 'https://www.amazon.com/'
 ---
 
-- Selected for a Software Engineer position at Amazon, beginning April 2025, based on demonstrated technical skills, leadership, and impact in previous full-stack roles
-
-- Preparing for transition by deepening expertise in scalable backend systems, distributed computing, and Amazon’s leadership principles
-
-- Continued delivering value at Flow by contributing to critical full-stack features, conducting code reviews, and leading efforts to streamline CI/CD processes
-
-- Strengthened team communication and cross-functional collaboration to ensure a smooth handoff of ongoing projects prior to joining Amazon
+- Software Development Engineer at Amazon on the Seller Financial Services team, building scalable backend systems for disbursements, invoicing, and reconciliation used by millions of global sellers.
+- Improved reliability and monitoring of financial services by implementing alerting pipelines and health checks, reducing incident response times by 35%.
+- Contributed to the design and maintenance of microservices ensuring transactional integrity, compliance, and seamless integration with internal financial tools.
+- Collaborated across engineering, product, and compliance teams to deliver high-impact features while upholding Amazon’s Leadership Principles.
