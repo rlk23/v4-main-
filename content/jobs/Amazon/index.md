@@ -3,6 +3,7 @@ date: 'May 2025 – Present'
 title: 'Software Engineer'
 company: 'Amazon'
 location: 'Seattle, WA'
+range: 'May 2025 - Present'
 url: 'https://www.amazon.com/'
 ---
 
