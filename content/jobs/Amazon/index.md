@@ -7,7 +7,7 @@ range: 'May 2025 - Present'
 url: 'https://www.amazon.com/'
 ---
 
-- Software Development Engineer at Amazon on the Seller Financial Services team, building scalable backend systems for disbursements, invoicing, and reconciliation used by millions of global sellers.
-- Improved reliability and monitoring of financial services by implementing alerting pipelines and health checks, reducing incident response times by 35%.
-- Contributed to the design and maintenance of microservices ensuring transactional integrity, compliance, and seamless integration with internal financial tools.
-- Collaborated across engineering, product, and compliance teams to deliver high-impact features while upholding Amazon’s Leadership Principles.
+- Developed and launched a new Seller Central feature for HAUL sellers, enabling them to generate and manage a new class of financial reports. This feature streamlined seller visibility into disbursements and reconciliation, improving data accessibility and operational efficiency.
+- Enhanced CI/CD pipelines by resolving integration issues and automating end-to-end deployments, achieving fully continuous delivery and reducing manual intervention.
+- Collaborated with cross-functional teams—including finance, compliance, and product—to ensure the new reporting system met strict regulatory and performance standards.
+- Strengthened system reliability by implementing alerting mechanisms, health checks, and monitoring improvements, resulting in a 35% faster incident response rate.
