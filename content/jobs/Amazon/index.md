@@ -7,7 +7,6 @@ range: 'May 2025 - Present'
 url: 'https://www.amazon.com/'
 ---
 
-- Developed and launched a new Seller Central feature for HAUL sellers, enabling them to generate and manage a new class of financial reports. This feature streamlined seller visibility into disbursements and reconciliation, improving data accessibility and operational efficiency.
-- Enhanced CI/CD pipelines by resolving integration issues and automating end-to-end deployments, achieving fully continuous delivery and reducing manual intervention.
-- Collaborated with cross-functional teams—including finance, compliance, and product—to ensure the new reporting system met strict regulatory and performance standards.
-- Strengthened system reliability by implementing alerting mechanisms, health checks, and monitoring improvements, resulting in a 35% faster incident response rate.
+- Developed and launched a new payment report exclusively for HAUL sellers, enabling 50,000 HAUL sellers (out of 2 million Amazon sellers worldwide) to access specialized financial reporting without affecting the experience for the remaining 1.95 million sellers.
+- Enhanced payment and shipment tracking for Amazon vendors by mapping and displaying new data sources, improving vendor visibility into transaction and logistics information.
+- Architected and built the Vendor World experience for Amazon vendors as a new initiative, creating a centralized platform for vendor management and operations.
